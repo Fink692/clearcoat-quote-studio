@@ -137,7 +137,7 @@ Provides the provider-neutral quote lifecycle surface used by the prototype.
 
 ### Requirements
 
-- Node.js 20+
+- Node.js 20+ (the repository pins the major version in `.nvmrc`)
 - npm 10+
 
 ### Run the app
